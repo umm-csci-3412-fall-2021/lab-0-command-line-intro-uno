@@ -2,7 +2,7 @@
 
 # sysinfo_page - This script extracts and compiles a C program known as "NthPrime."
 
-prime = $1 #This variable takes in the prime that NthPrime will use to find the correct Nth prime.
+prime=$1 #This variable takes in the prime that NthPrime will use to find the correct Nth prime.
 
 tar -xzf NthPrime.tgz #Meanwhile, this command extracts the tar file with respect to a gunzipped format, along with its name.
 
