@@ -4,7 +4,7 @@
 
 prime=$1 #This variable takes in the prime that NthPrime will use to find the correct Nth prime.
 
-tar -xzf NthPrime.tgz #Meanwhile, this command extracts the tar file with respect to a gunzipped format, along with its name.
+tar -x -z -f NthPrime.tgz #Meanwhile, this command extracts the tar file with respect to a gunzipped format, along with its name.
 
 cd NthPrime || exit #On the other hand, this command will "cd" into a directory created via the extraction of the NthPrime file.
                     #If this operation were to fail, the directory will be exited.
