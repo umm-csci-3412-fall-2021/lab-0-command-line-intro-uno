@@ -7,3 +7,21 @@
 [submodule "test/test_helper/bats-file"]
 	path = test/test_helper/bats-file
 	url = https://github.com/bats-core/bats-file.git
+[submodule "cleaning/test/test_helper/bats-assert"]
+	path = cleaning/test/test_helper/bats-assert
+	url = https://github.com/bats-core/bats-assert
+[submodule "cleaning/test/test_helper/bats-support"]
+	path = cleaning/test/test_helper/bats-support
+	url = https://github.com/bats-core/bats-support
+[submodule "cleaning/test/test_helper/bats-file"]
+	path = cleaning/test/test_helper/bats-file
+	url = https://github.com/bats-core/bats-file
+[submodule "compiling/test/test_helper/bats-assert"]
+	path = compiling/test/test_helper/bats-assert
+	url = https://github.com/bats-core/bats-assert
+[submodule "compiling/test/test_helper/bats-support"]
+	path = compiling/test/test_helper/bats-support
+	url = https://github.com/bats-core/bats-support
+[submodule "compiling/test/test_helper/bats-file"]
+	path = compiling/test/test_helper/bats-file
+	url = https://github.com/bats-core/bats-file
